@@ -1,0 +1,16 @@
+<GetDocumentsResponse>
+    <documents>
+    <document>
+    <id>123</id>
+    <fileName>test.txt</fileName>
+    <sizeInBytes>64</sizeInBytes>
+    <downloadUrl>https://mydomain.org/documents/MTIz?user=gilles&amp;token=abc</downloadUrl>
+    </document>
+    <document>
+    <id>456</id>
+    <fileName>test2.txt</fileName>
+    <sizeInBytes>128</sizeInBytes>
+    <downloadUrl>https://mydomain.org/documents/MTIz?user=gilles&amp;token=efg</downloadUrl>
+    </document>
+    </documents>
+</GetDocumentsResponse>
