@@ -1,0 +1,216 @@
+<agg:Root
+	xmlns:agg="http://schemas.microsoft.com/BizTalk/2003/aggschema"
+	xmlns:userCSharp="http://schemas.microsoft.com/BizTalk/2003/userCSharp"
+	xmlns:config="http://BizTalkFactory.Core.Common.Helpers/ConfigurationHelper"
+	xmlns:ns0="http://LVMH.PCIS.Mediation.SalesOrder.SalesOrderAcquisitionPublishEssence.Messaging.schSalesOrderEssenceFF"
+	xmlns:transco="http://LVMH.PCIS.Mediation.PartnersApplications.Transcoding.Messaging.schTranscoding"
+	xmlns:mapVar="http://BizTalkFactory.Core.Common.Helpers/MappingVariableHelper">
+	<OutputMessagePart_0>
+		<ns0:SalesOrder>
+			<Header>
+				<DistributionChannel>08</DistributionChannel>
+				<BrandCode>10</BrandCode>
+				<CallOrigin>DIOR</CallOrigin>
+				<Partner></Partner>
+				<FlowType></FlowType>
+			</Header>
+			<SalesOrderInformations>
+				<SalesOrderHeader>
+					<SalesCountryCode>TW</SalesCountryCode>
+					<SalesDivision>01</SalesDivision>
+					<SalesOrganization>2920</SalesOrganization>
+					<Plant></Plant>
+					<CustomerAccount></CustomerAccount>
+					<InvoiceAccount></InvoiceAccount>
+					<SalesOrderStatus>SENT_TO_ERP</SalesOrderStatus>
+					<SalesDescription>[Amt=1450] home delivery </SalesDescription>
+					<Currency>TWD</Currency>
+					<TotalOrderedQuantities>14.00</TotalOrderedQuantities>
+					<OrderingDate>2020-06-23 17:45:31</OrderingDate>
+				</SalesOrderHeader>
+				<SalesOrderDelivery>
+					<ModeOfDelivery>TCAT</ModeOfDelivery>
+					<PackingSlipNumber>906397353321</PackingSlipNumber>
+					<ShippingTrackingID>906397353321</ShippingTrackingID>
+					<DeliveryName>Odette BRISETTE</DeliveryName>
+					<DeliveryStreetName>台北市中山區長安東路一段10號6樓</DeliveryStreetName>
+					<DeliveryZIP>104</DeliveryZIP>
+					<DeliveryCity>台北市</DeliveryCity>
+					<DeliveryStateID>中山區</DeliveryStateID>
+					<DeliveryCountry>TW</DeliveryCountry>
+					<DeliveryContact>0977770000</DeliveryContact>
+					<OrderTotalWeight />
+					<ThirdPartyId />
+					<TrackingId2></TrackingId2>
+					<ExternalTracking>+3310492C</ExternalTracking>
+					<DeliveryArea></DeliveryArea>
+					<EquipId></EquipId>
+					<CvsId></CvsId>
+					<CvsDeliveryDate />
+					<CvsReturnDate />
+					<CvsName>Odette BRISETTE</CvsName>
+				</SalesOrderDelivery>
+				<SalesOrderInvoice>
+					<BillToCustomer></BillToCustomer>
+					<MethodOfPayment>CREDIT CARD</MethodOfPayment>
+					<InvoiceName>Odette BRISETTE</InvoiceName>
+					<InvoiceStreetName>台北市中山區長安東路一段10號6樓</InvoiceStreetName>
+					<InvoiceZIP>104</InvoiceZIP>
+					<InvoiceCity>台北市</InvoiceCity>
+					<InvoiceStateID>中山區</InvoiceStateID>
+					<InvoiceCountry>TW</InvoiceCountry>
+					<InvoiceContact>0977770000</InvoiceContact>
+					<BillingEmail>emna0950300000@yopmail.com</BillingEmail>
+				</SalesOrderInvoice>
+				<SalesOrderItem>
+					<SapItemType>SALE</SapItemType>
+					<ItemNumber>F002880877</ItemNumber>
+					<Text>迪奧癮誘超模漆光唇釉 - 極致飽和、極亮漆光、極美輕盈 877 Turn me dior</Text>
+					<BarCode>3348901340717</BarCode>
+					<MessageLine1>GRGRATUITE</MessageLine1>
+					<MessageLine2 />
+					<MessageLine3 />
+					<MessageLine4 />
+					<OrderedQuantity>8.00</OrderedQuantity>
+					<SalesRetailPrice>1350.00</SalesRetailPrice>
+					<PriceUnit />
+					<PickingInProgressQty></PickingInProgressQty>
+					<PickedQty></PickedQty>
+					<ItemSalesUnit></ItemSalesUnit>
+					<TotalDiscountAmountExclTax></TotalDiscountAmountExclTax>
+					<DiscountLabel></DiscountLabel>
+					<LineAmountExclTaxes></LineAmountExclTaxes>
+					<ItemSalesTaxGroup></ItemSalesTaxGroup>
+					<SalesTaxRate></SalesTaxRate>
+					<SalesTaxAmount></SalesTaxAmount>
+					<LineAmountInclTaxes>10800.00</LineAmountInclTaxes>
+					<BatchNumber></BatchNumber>
+					<LineReturnReason></LineReturnReason>
+					<Site></Site>
+					<Warehouse></Warehouse>
+					<ExternalReference></ExternalReference>
+				</SalesOrderItem>
+				<SalesOrderItem>
+					<SapItemType>SALE</SapItemType>
+					<ItemNumber>F002880877</ItemNumber>
+					<Text>迪奧癮誘超模漆光唇釉 - 極致飽和、極亮漆光、極美輕盈 877 Turn me dior</Text>
+					<BarCode>3348901340717</BarCode>
+					<MessageLine1>GRGRATUITE</MessageLine1>
+					<MessageLine2 />
+					<MessageLine3 />
+					<MessageLine4 />
+					<OrderedQuantity>2.00</OrderedQuantity>
+					<SalesRetailPrice>1350.00</SalesRetailPrice>
+					<PriceUnit />
+					<PickingInProgressQty></PickingInProgressQty>
+					<PickedQty></PickedQty>
+					<ItemSalesUnit></ItemSalesUnit>
+					<TotalDiscountAmountExclTax></TotalDiscountAmountExclTax>
+					<DiscountLabel></DiscountLabel>
+					<LineAmountExclTaxes></LineAmountExclTaxes>
+					<ItemSalesTaxGroup></ItemSalesTaxGroup>
+					<SalesTaxRate></SalesTaxRate>
+					<SalesTaxAmount></SalesTaxAmount>
+					<LineAmountInclTaxes>2700.00</LineAmountInclTaxes>
+					<BatchNumber></BatchNumber>
+					<LineReturnReason></LineReturnReason>
+					<Site></Site>
+					<Warehouse></Warehouse>
+					<ExternalReference></ExternalReference>
+				</SalesOrderItem>
+				<SalesOrderItem>
+					<SapItemType>FREE_ENGRAVING</SapItemType>
+					<ItemNumber>F040078011</ItemNumber>
+					<Text>Engraving</Text>
+					<MessageLine1></MessageLine1>
+					<MessageLine2 />
+					<MessageLine3 />
+					<MessageLine4 />
+					<OrderedQuantity>2.00</OrderedQuantity>
+					<SalesRetailPrice>250.00</SalesRetailPrice>
+					<PriceUnit />
+					<DiscountAmount>500.00</DiscountAmount>
+					<PickingInProgressQty></PickingInProgressQty>
+					<PickedQty></PickedQty>
+					<ItemSalesUnit></ItemSalesUnit>
+					<TotalDiscountAmountExclTax></TotalDiscountAmountExclTax>
+					<DiscountLabel></DiscountLabel>
+					<LineAmountExclTaxes></LineAmountExclTaxes>
+					<ItemSalesTaxGroup></ItemSalesTaxGroup>
+					<SalesTaxRate></SalesTaxRate>
+					<SalesTaxAmount></SalesTaxAmount>
+					<LineAmountInclTaxes>0.00</LineAmountInclTaxes>
+					<BatchNumber></BatchNumber>
+					<LineReturnReason></LineReturnReason>
+					<Site></Site>
+					<Warehouse></Warehouse>
+					<ExternalReference></ExternalReference>
+				</SalesOrderItem>
+				<SalesOrderItem>
+					<SapItemType>SALE</SapItemType>
+					<ItemNumber>F186054000</ItemNumber>
+					<Text>試用品 - MISS DIOR香氛針管香水1ML - </Text>
+					<BarCode>3348901345620</BarCode>
+					<MessageLine1></MessageLine1>
+					<MessageLine2 />
+					<MessageLine3 />
+					<MessageLine4 />
+					<OrderedQuantity>1.00</OrderedQuantity>
+					<SalesRetailPrice>0.00</SalesRetailPrice>
+					<PriceUnit />
+					<PickingInProgressQty></PickingInProgressQty>
+					<PickedQty></PickedQty>
+					<ItemSalesUnit></ItemSalesUnit>
+					<TotalDiscountAmountExclTax></TotalDiscountAmountExclTax>
+					<DiscountLabel></DiscountLabel>
+					<LineAmountExclTaxes></LineAmountExclTaxes>
+					<ItemSalesTaxGroup></ItemSalesTaxGroup>
+					<SalesTaxRate></SalesTaxRate>
+					<SalesTaxAmount></SalesTaxAmount>
+					<LineAmountInclTaxes>0.00</LineAmountInclTaxes>
+					<BatchNumber></BatchNumber>
+					<LineReturnReason></LineReturnReason>
+					<Site></Site>
+					<Warehouse></Warehouse>
+					<ExternalReference></ExternalReference>
+				</SalesOrderItem>
+				<SalesOrderItem>
+					<SapItemType>GIFT</SapItemType>
+					<ItemNumber>F810016400</ItemNumber>
+					<Text>礼物盒</Text>
+					<BarCode>3348901251365</BarCode>
+					<MessageLine1></MessageLine1>
+					<MessageLine2 />
+					<MessageLine3 />
+					<MessageLine4 />
+					<OrderedQuantity>1.00</OrderedQuantity>
+					<SalesRetailPrice>0.00</SalesRetailPrice>
+					<PriceUnit />
+					<PickingInProgressQty></PickingInProgressQty>
+					<PickedQty></PickedQty>
+					<ItemSalesUnit></ItemSalesUnit>
+					<TotalDiscountAmountExclTax></TotalDiscountAmountExclTax>
+					<DiscountLabel></DiscountLabel>
+					<LineAmountExclTaxes></LineAmountExclTaxes>
+					<ItemSalesTaxGroup></ItemSalesTaxGroup>
+					<SalesTaxRate></SalesTaxRate>
+					<SalesTaxAmount></SalesTaxAmount>
+					<LineAmountInclTaxes>0.00</LineAmountInclTaxes>
+					<BatchNumber></BatchNumber>
+					<LineReturnReason></LineReturnReason>
+					<Site></Site>
+					<Warehouse></Warehouse>
+					<ExternalReference></ExternalReference>
+				</SalesOrderItem>
+			</SalesOrderInformations>
+		</ns0:SalesOrder>
+	</OutputMessagePart_0>
+	<OutputMessagePart_1>
+		<s1:SalesOrder
+			xmlns:s1="http://LVMH.PCIS.Mediation.SalesOrder.Common.Messaging.schSalesOrderCanonical">
+			<s0:BizHeader
+				xmlns:s0="http://BizTalkFactory.Core.Common.Messaging.BizHeader/v1.0" />
+				<!--Reason : Conflict between the TotalOrderQuantity and the sum of single quantities-->
+			</s1:SalesOrder>
+		</OutputMessagePart_1>
+	</agg:Root>

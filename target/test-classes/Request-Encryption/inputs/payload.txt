@@ -1,4 +1,0 @@
-{
-  "id": 10,
-  "text": "isto é suposto ser um ficheiro"
-}

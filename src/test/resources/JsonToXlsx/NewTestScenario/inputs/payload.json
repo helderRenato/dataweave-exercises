@@ -1,0 +1,47 @@
+[
+  {
+    "Expediente": "11638394",
+    "Comércio": "036306207",
+    "Nome Comércio": "EESS Murcia Infante PE",
+    "Tarjeta": "45571431****0002",
+    "Importe retrocesso": 40,
+    "Descrição": "Euro",
+    "Data": "19/11/2023",
+    "Ref.Operação": "000221",
+    "Tipo incidência": "Operación cargada más de una vez",
+    "Número": "048257  ",
+    "Importe operação": 40,
+    "Descrição": "Euro",
+    "Idioma requerido": "Castellano"
+  },
+  {
+    "Expediente": 1564513,
+    "Comércio": "055656534",
+    "Nome Comércio": "Cap",
+    "Tarjeta": "12345678*****1564",
+    "Importe retrocesso": 2.98,
+    "Descrição": "Euro",
+    "Data": "2024-03-12T00:00:00",
+    "Ref.Operação": "456789",
+    "Tipo incidência": "teste de excel",
+    "Número": "111555",
+    "Importe operação": 7.02,
+    "Descrição": "Euro",
+    "Idioma requerido": "Pt"
+  },
+  {
+    "Expediente": "12316937",
+    "Comércio": "036283810",
+    "Nome Comércio": "Carref Tarrg",
+    "Tarjeta": "43226445****6751",
+    "Importe retrocesso": 6.78,
+    "Descrição": "Euro",
+    "Data": "10/01/2024",
+    "Ref.Operação": "004388",
+    "Tipo incidência": "Cargo por Falta de autorización / Solicitud de autorización denegada",
+    "Número": "000000  ",
+    "Importe operação": 6.78,
+    "Descrição": "Euro",
+    "Idioma requerido": "Castellano"
+  }
+]

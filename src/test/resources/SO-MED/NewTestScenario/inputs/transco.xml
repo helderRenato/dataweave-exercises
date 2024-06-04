@@ -1,0 +1,1068 @@
+<ns0:Transco xmlns:ns0='http://LVMH.PCIS.Mediation.PartnersApplications.Transcoding.Messaging.schTranscoding'>
+	<DivisionSAPFromBrandCode>
+		<Instance BrandCode="69" DivisionCode="0B" BrandLabel="BULY"/>
+		<Instance BrandCode="65" DivisionCode="0K" BrandLabel="MFK"/>
+		<Instance BrandCode="71" DivisionCode="0N" BrandLabel="SMCB"/>
+		<Instance BrandCode="95" DivisionCode="0A" BrandLabel="ADP"/>
+		<Instance BrandCode="94" DivisionCode="0L" BrandLabel="LOEWE"/>
+		<Instance BrandCode="40" DivisionCode="05" BrandLabel="KENZO"/>
+		<Instance BrandCode="70" DivisionCode="07" BrandLabel="BENEFIT"/>
+		<Instance BrandCode="08" DivisionCode="08" BrandLabel="FRESH"/>
+		<Instance BrandCode="0M" DivisionCode="0M" BrandLabel="MUFE"/>
+		<Instance BrandCode="10" DivisionCode="01" BrandLabel="PCD"/>
+		<Instance BrandCode="30" DivisionCode="03" BrandLabel="GUERLAIN"/>
+		<Instance BrandCode="50" DivisionCode="05" BrandLabel="GIVENCHY"/>
+	</DivisionSAPFromBrandCode>
+	<OCSAPFromBrandAndCountry>
+		<Instance BrandCode="30" CountryISO2="AE" SalesOrganisation="3615" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="SA" SalesOrganisation="3315" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="AE" SalesOrganisation="1215" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="SA" SalesOrganisation="1315" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="JP" SalesOrganisation="5920" Plant="1230"/>
+		<Instance BrandCode="10" CountryISO2="NZ" SalesOrganisation="2920" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="AU" SalesOrganisation="2920" Plant=""/>
+		<Instance BrandCode="65" CountryISO2="GB" SalesOrganisation="K100" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="ID" SalesOrganisation="2202" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="CH" SalesOrganisation="1700" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="PL" SalesOrganisation="3350" Plant=""/>
+		<Instance CountryISO2="MX" SalesOrganisation="1020" Plant="" BrandCode="10"/>
+		<Instance BrandCode="50" CountryISO2="SE" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="SI" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="SK" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="RO" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="PT" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="NL" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="LU" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="LT" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="LV" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="IT" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="IE" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="HU" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="GR" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="DE" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="FI" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="EE" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="DK" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="CZ" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="BG" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="BE" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="AT" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="40" CountryISO2="ES" SalesOrganisation="5610" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="CA" SalesOrganisation="1020" Plant=""/>
+		<Instance BrandCode="71" CountryISO2="FR" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="CH" SalesOrganisation="3700" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="TW" SalesOrganisation="1280" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="NO" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="SE" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="SK" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="RO" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="PT" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="PL" SalesOrganisation="1000" Plant=""/>
+		<Instance Plant="" BrandCode="10" CountryISO2="LU" SalesOrganisation="1000"/>
+		<Instance BrandCode="10" CountryISO2="IE" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="HU" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="GR" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="FI" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="DK" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="CZ" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="71" CountryISO2="GB" SalesOrganisation="N100" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="AT" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="50" CountryISO2="ES" SalesOrganisation="5610" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="SG" SalesOrganisation="2900" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="DE" SalesOrganisation="1450" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="IT" SalesOrganisation="1110" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="NL" SalesOrganisation="1300" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="BE" SalesOrganisation="1200" Plant=""/>
+		<Instance BrandCode="08" CountryISO2="SG" Plant="" SalesOrganisation="8920"/>
+		<Instance BrandCode="08" CountryISO2="MY" Plant="" SalesOrganisation="8920"/>
+		<Instance BrandCode="50" CountryISO2="GB" Plant="" SalesOrganisation="5100"/>
+		<Instance BrandCode="10" CountryISO2="MY" SalesOrganisation="2920" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="ES" SalesOrganisation="1610" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="JP" SalesOrganisation="2920" Plant="1230"/>
+		<Instance BrandCode="50" CountryISO2="FR" SalesOrganisation="5000" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="NL" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="PL" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="IT" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="ES" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="DE" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="BE" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="FR" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="GB" SalesOrganisation="1100" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="JP" SalesOrganisation="2920" Plant="1230"/>
+		<Instance BrandCode="30" CountryISO2="SK" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="CZ" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="PT" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="NL" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="LU" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="LT" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="LV" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="HU" SalesOrganisation="3000" Plant=""/>
+		<Instance Plant="" BrandCode="30" CountryISO2="BG" SalesOrganisation="3000"/>
+		<Instance BrandCode="30" CountryISO2="BE" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="AT" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="ES" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="DE" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="IT" SalesOrganisation="3000" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="TW" SalesOrganisation="1280" Plant=""/>
+		<Instance BrandCode="10" CountryISO2="FR" SalesOrganisation="1000" Plant=""/>
+		<Instance BrandCode="0M" CountryISO2="FR" SalesOrganisation="M999" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="GB" SalesOrganisation="3100" Plant=""/>
+		<Instance BrandCode="30" CountryISO2="FR" SalesOrganisation="3000" Plant=""/>
+	</OCSAPFromBrandAndCountry>
+	<EssenceSalesTypes>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="0" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="False" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="0" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="50" CountryCodeISO2="JP" SalePersonnalizingFlag="False" EssenseSalesType="EC"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="1" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="True" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="0" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="False" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="POS" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="POS" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" BrandCode="10" CountryCodeISO2="NZ" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="1" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="True" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="0" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="False" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="POS" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="RETURN_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="POS" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" BrandCode="10" CountryCodeISO2="AU" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="1" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="True" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="1" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="True" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="1" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="True" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="POS" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance CountryCodeISO2="TW" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_GUERLAIN" PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="" CallOrigin="POS" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" BrandCode="03" CountryCodeISO2="TW" SalePersonnalizingFlag="" EssenseSalesType="ORDER_GUERLAIN"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="08" CountryCodeISO2="KR" SalePersonnalizingFlag="" EssenseSalesType="EC_order"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="08" CountryCodeISO2="KR" SalePersonnalizingFlag="" EssenseSalesType="EC_order"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="HK" SalePersonnalizingFlag="1" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="HK" SalePersonnalizingFlag="1" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="HK" SalePersonnalizingFlag="True" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" BrandCode="03" CountryCodeISO2="HK" SalePersonnalizingFlag="True" EssenseSalesType="ECGP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="MY"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC_order" BrandCode="08" CountryCodeISO2="HK"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC_order" BrandCode="08" CountryCodeISO2="HK"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW" PivotSalesType="RETURN" CallOrigin="POS" SalePersonnalizingFlag=""/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="ORDER_PCD" BrandCode="10" CountryCodeISO2="TW"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="" BrandCode="10" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="ECGP_RETURN" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="ECGP_RETURN" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance BrandCode="03" CountryCodeISO2="JP" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC_RETURN" PivotSalesType="RETURN"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="EC_RETURN" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="RETURN" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="EC_RETURN" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance CountryCodeISO2="JP" SalePersonnalizingFlag="" EssenseSalesType="So_RETURN" BrandCode="03" PivotSalesType="RETURN" CallOrigin="POS"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="1" EssenseSalesType="ECGP" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="True" EssenseSalesType="ECGP" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance SalePersonnalizingFlag="False" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP" PivotSalesType="" CallOrigin="ECO"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="0" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="ECO" SalePersonnalizingFlag="False" EssenseSalesType="EC" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="So_SALE" BrandCode="03" CountryCodeISO2="JP"/>
+		<Instance PivotSalesType="SALE" CallOrigin="POS" SalePersonnalizingFlag="" EssenseSalesType="So_SALE" BrandCode="03" CountryCodeISO2="JP"/>
+	</EssenceSalesTypes>
+	<SalesType>
+		<Instance PivotSalesType="CREDIT_NOTE" SAPSalesType="ZCR1" RaymarkSalesType="" EssenceSalesType="" InfowareSalesType=""/>
+		<Instance EssenceSalesType="So_RETURN" InfowareSalesType="RF" PivotSalesType="RETURN" SAPSalesType="ZRE1" RaymarkSalesType="RETU"/>
+		<Instance SAPSalesType="ZCD1" PivotSalesType="NORMAL" RaymarkSalesType="" EssenceSalesType="" InfowareSalesType=""/>
+		<Instance RaymarkSalesType="" EssenceSalesType="" InfowareSalesType="DR" SAPSalesType="" PivotSalesType="DEPOSIT_REFUND"/>
+		<Instance InfowareSalesType="DP" PivotSalesType="DEPOSIT" SAPSalesType="" RaymarkSalesType="" EssenceSalesType=""/>
+		<Instance PivotSalesType="SALE" InfowareSalesType="CS" SAPSalesType="" RaymarkSalesType="SALE" EssenceSalesType="So_SALE"/>
+	</SalesType>
+	<PaymentTypeUniqueClient>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="GIFT CARD" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="DISCOVER" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="AMERICAN EXPRESS" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="MASTERCARD" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance PaymentType="VISA" ConsumerCategory="" ERPGenericConsumerId="17311102" BrandCode="FT" CountryCode="GB"/>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="SHOPPAY" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance CountryCode="GB" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17311102" BrandCode="FT"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="17311102" BrandCode="FT" CountryCode="GB" PaymentType="KLARNA"/>
+		<Instance BrandCode="FT" CountryCode="GB" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="50" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="50" CountryCode="JP" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="50" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="50" CountryCode="JP" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="NZ" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="CEPOP01NZ"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="AU" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="JP" PaymentType="Adyen_PayByLink" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="10" CountryCode="JP" PaymentType="PayPay" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SI" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312019"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="SK" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312018"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance ERPGenericConsumerId="17312017" BrandCode="08" CountryCode="PT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="PT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312017"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="MT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312016"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance CountryCode="LT" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312015"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="LV" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312014"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013" BrandCode="08" CountryCode="IE" PaymentType="LOYALTY"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="IE" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312013"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312012" CountryCode="GR"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance ERPGenericConsumerId="17312012" BrandCode="08" CountryCode="GR" PaymentType="PAYPAL" ConsumerCategory=""/>
+		<Instance PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312012" BrandCode="08" CountryCode="GR"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="GR" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312012"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312011" CountryCode="FI" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011" BrandCode="08" CountryCode="FI" PaymentType="ATOME"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011" BrandCode="08" CountryCode="FI" PaymentType="NAVERPAY"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance CountryCode="FI" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="FI" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312011"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance ERPGenericConsumerId="17312010" ConsumerCategory="PUBLIC" BrandCode="08" CountryCode="EE" PaymentType="LOYALTY"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="EE" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312010"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance CountryCode="CY" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="CY" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312009"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance PaymentType="FREE_PAYMENT" ConsumerCategory="" ERPGenericConsumerId="17312008" CountryCode="AT" BrandCode="08"/>
+		<Instance CountryCode="AT" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17312008" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="LOYALTY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17312008" CountryCode="AT" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="08" CountryCode="AT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312008"/>
+		<Instance BrandCode="50" CountryCode="CZ" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400063"/>
+		<Instance BrandCode="50" CountryCode="SK" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400062"/>
+		<Instance BrandCode="50" CountryCode="SI" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400061"/>
+		<Instance BrandCode="50" CountryCode="LT" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400060"/>
+		<Instance BrandCode="50" CountryCode="LV" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400059"/>
+		<Instance BrandCode="50" CountryCode="EE" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400058"/>
+		<Instance BrandCode="50" CountryCode="FI" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400057"/>
+		<Instance BrandCode="50" CountryCode="SE" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400056"/>
+		<Instance BrandCode="50" CountryCode="DK" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400055"/>
+		<Instance BrandCode="50" CountryCode="LU" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400054"/>
+		<Instance BrandCode="50" CountryCode="NL" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400053"/>
+		<Instance BrandCode="50" CountryCode="AT" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400052"/>
+		<Instance BrandCode="50" CountryCode="BE" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400051"/>
+		<Instance BrandCode="50" CountryCode="GR" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400050"/>
+		<Instance BrandCode="50" CountryCode="PT" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400049"/>
+		<Instance BrandCode="50" CountryCode="ES" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400048"/>
+		<Instance BrandCode="50" CountryCode="DE" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400047"/>
+		<Instance BrandCode="50" CountryCode="IT" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400046"/>
+		<Instance BrandCode="50" CountryCode="IE" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400067"/>
+		<Instance BrandCode="50" CountryCode="HU" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400066"/>
+		<Instance BrandCode="50" CountryCode="BG" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400065"/>
+		<Instance BrandCode="50" CountryCode="RO" PaymentType="" ConsumerCategory="" ERPGenericConsumerId="0000400064"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="ALIPAYHK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="ALIPAYHK" ConsumerCategory="" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="WECHATPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="WECHATPAY" ConsumerCategory="" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="DEFAULT_PAYMENT_TYPE" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="ATOME"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="APPLEPAY"/>
+		<Instance PaymentType="FREE_PAYMENT" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" ConsumerCategory=""/>
+		<Instance ERPGenericConsumerId="C0000300" CountryCode="FR" PaymentType="BUYBOX" ConsumerCategory="" BrandCode="71"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="BANK" ConsumerCategory=""/>
+		<Instance ConsumerCategory="" BrandCode="71" CountryCode="FR" PaymentType="LOYALTY" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="C0000300" PaymentType="PAYPAL" BrandCode="71" CountryCode="FR"/>
+		<Instance PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="C0000300"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="LinePay"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="NAVERPAY"/>
+		<Instance ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance ERPGenericConsumerId="C0000300" BrandCode="71" CountryCode="FR" ConsumerCategory="PUBLIC" PaymentType="FREE_PAYMENT"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="BANK" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="71" CountryCode="FR" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0000300"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="INDUSTRY_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="FREE_PAYMENT" ConsumerCategory="INDUSTRY_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CARD" ConsumerCategory="INDUSTRY_DISCOUNT" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="0M" CountryCode="DE" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0868000"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="0M" CountryCode="JP" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="LinePay" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="LinePay" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="TRANSFERT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CREDIT CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="30" CountryCode="TW" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="ATOME" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="ATOME" ConsumerCategory="" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="NAVERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="E210800"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="NAVERPAY" ConsumerCategory="" ERPGenericConsumerId="E210800"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="KAKAOPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="E210800"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="KAKAOPAY" ConsumerCategory="" ERPGenericConsumerId="E210800"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="E210800"/>
+		<Instance BrandCode="08" CountryCode="KR" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="E210800"/>
+		<Instance ERPGenericConsumerId="17312007" BrandCode="08" CountryCode="LU" PaymentType="SOFORT" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="08" CountryCode="LU" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312007"/>
+		<Instance BrandCode="08" CountryCode="LU" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312007"/>
+		<Instance CountryCode="LU" BrandCode="08" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312007"/>
+		<Instance ConsumerCategory="PUBLIC" CountryCode="LU" PaymentType="PAYPAL" BrandCode="08" ERPGenericConsumerId="17312007"/>
+		<Instance BrandCode="08" CountryCode="LU" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312007"/>
+		<Instance BrandCode="08" CountryCode="LU" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312007"/>
+		<Instance CountryCode="LU" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312007" BrandCode="08"/>
+		<Instance CountryCode="LU" BrandCode="08" ERPGenericConsumerId="17312007" PaymentType="CARD" ConsumerCategory="PUBLIC"/>
+		<Instance ERPGenericConsumerId="17312007" BrandCode="08" CountryCode="LU" PaymentType="CARD" ConsumerCategory=""/>
+		<Instance BrandCode="08" CountryCode="NL" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312006"/>
+		<Instance BrandCode="08" CountryCode="NL" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312006"/>
+		<Instance ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312006" BrandCode="08" CountryCode="NL" PaymentType="KLARNA"/>
+		<Instance CountryCode="NL" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312006" BrandCode="08"/>
+		<Instance ERPGenericConsumerId="17312006" BrandCode="08" CountryCode="NL" PaymentType="PAYPAL" ConsumerCategory="PUBLIC"/>
+		<Instance CountryCode="NL" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312006" BrandCode="08"/>
+		<Instance ERPGenericConsumerId="17312006" BrandCode="08" CountryCode="NL" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="08" CountryCode="NL" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312006"/>
+		<Instance BrandCode="08" ERPGenericConsumerId="17312006" PaymentType="CARD" ConsumerCategory="PUBLIC" CountryCode="NL"/>
+		<Instance BrandCode="08" CountryCode="NL" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312006"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="SOFORT" ERPGenericConsumerId="17312005" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312005"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312005"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312005"/>
+		<Instance CountryCode="BE" ConsumerCategory="PUBLIC" BrandCode="08" ERPGenericConsumerId="17312005" PaymentType="PAYPAL"/>
+		<Instance ConsumerCategory="" CountryCode="BE" BrandCode="08" ERPGenericConsumerId="17312005" PaymentType="PAYPAL"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312005"/>
+		<Instance BrandCode="08" CountryCode="BE" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312005"/>
+		<Instance PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312005" BrandCode="08" CountryCode="BE"/>
+		<Instance PaymentType="CARD" CountryCode="BE" ConsumerCategory="" BrandCode="08" ERPGenericConsumerId="17312005"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312004"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312004"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312004"/>
+		<Instance CountryCode="ES" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312004" BrandCode="08"/>
+		<Instance ERPGenericConsumerId="17312004" ConsumerCategory="PUBLIC" BrandCode="08" CountryCode="ES" PaymentType="PAYPAL"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312004"/>
+		<Instance ERPGenericConsumerId="17312004" ConsumerCategory="PUBLIC" PaymentType="APPLEPAY" BrandCode="08" CountryCode="ES"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17312004"/>
+		<Instance BrandCode="08" CountryCode="ES" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312004"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="17312004" BrandCode="08" CountryCode="ES" PaymentType="CARD"/>
+		<Instance BrandCode="08" CountryCode="DE" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312003"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="17312003" BrandCode="08" PaymentType="SOFORT" CountryCode="DE"/>
+		<Instance BrandCode="08" CountryCode="DE" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312003"/>
+		<Instance BrandCode="08" CountryCode="DE" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312003"/>
+		<Instance CountryCode="DE" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312003" BrandCode="08"/>
+		<Instance ERPGenericConsumerId="17312003" ConsumerCategory="" BrandCode="08" CountryCode="DE" PaymentType="PAYPAL"/>
+		<Instance PaymentType="APPLEPAY" BrandCode="08" CountryCode="DE" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312003"/>
+		<Instance PaymentType="APPLEPAY" CountryCode="DE" ConsumerCategory="" ERPGenericConsumerId="17312003" BrandCode="08"/>
+		<Instance BrandCode="08" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312003" CountryCode="DE" PaymentType="CARD"/>
+		<Instance ConsumerCategory="" PaymentType="CARD" ERPGenericConsumerId="17312003" BrandCode="08" CountryCode="DE"/>
+		<Instance BrandCode="08" CountryCode="IT" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312002"/>
+		<Instance BrandCode="08" CountryCode="IT" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312002"/>
+		<Instance BrandCode="08" CountryCode="IT" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312002"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="17312002" BrandCode="08" CountryCode="IT" PaymentType="KLARNA"/>
+		<Instance CountryCode="IT" BrandCode="08" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312002"/>
+		<Instance BrandCode="08" CountryCode="IT" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312002"/>
+		<Instance BrandCode="08" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312002" CountryCode="IT" PaymentType="APPLEPAY"/>
+		<Instance PaymentType="APPLEPAY" CountryCode="IT" ConsumerCategory="" ERPGenericConsumerId="17312002" BrandCode="08"/>
+		<Instance BrandCode="08" CountryCode="IT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312002"/>
+		<Instance PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312002" BrandCode="08" CountryCode="IT"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="SOFORT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312001"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="SOFORT" ConsumerCategory="" ERPGenericConsumerId="17312001"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312001"/>
+		<Instance CountryCode="FR" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17312001" BrandCode="08"/>
+		<Instance ERPGenericConsumerId="17312001" BrandCode="08" CountryCode="FR" PaymentType="PAYPAL" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17312001"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312001"/>
+		<Instance ConsumerCategory="" ERPGenericConsumerId="17312001" BrandCode="08" CountryCode="FR" PaymentType="APPLEPAY"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17312001"/>
+		<Instance BrandCode="08" CountryCode="FR" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17312001"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="APPLEPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="APPLEPAY" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="0M" CountryCode="PL" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0867000"/>
+		<Instance BrandCode="0M" CountryCode="PL" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0867000"/>
+		<Instance BrandCode="0M" CountryCode="PL" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0867000"/>
+		<Instance BrandCode="0M" CountryCode="NL" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0871000"/>
+		<Instance BrandCode="0M" CountryCode="NL" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0871000"/>
+		<Instance BrandCode="0M" CountryCode="NL" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0871000"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0598000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0612000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0599000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0872000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0872000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0872000"/>
+		<Instance BrandCode="0M" CountryCode="DE" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0868000"/>
+		<Instance BrandCode="0M" CountryCode="DE" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0868000"/>
+		<Instance BrandCode="0M" CountryCode="DE" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0868000"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="FREE_PAYMENT" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="FREE_PAYMENT" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="FREE_PAYMENT" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="0M" CountryCode="PL" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0867000"/>
+		<Instance CountryCode="NL" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0871000" BrandCode="0M"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0872000"/>
+		<Instance BrandCode="0M" CountryCode="DE" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0868000"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="0M" CountryCode="NL" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0871000"/>
+		<Instance BrandCode="0M" CountryCode="PL" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0867000"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0872000"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="30" CountryCode="HK" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="GUEE01"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="BUYBOX" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="KLARNA" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="BUYBOX" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="KLARNA" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="10" CountryCode="MY" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="10" CountryCode="MY" PaymentType="BANK" ConsumerCategory="" ERPGenericConsumerId="CEPOP01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="LOYALTY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="08" CountryCode="HK" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="FSHE01"/>
+		<Instance BrandCode="30" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="30" CountryCode="JP" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="30" CountryCode="JP" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="AFTERPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="CLEARPAY" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="AFTERPAY" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="CLEARPAY" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="PAYPAL" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="PAYPAL" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="08" CountryCode="GB" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="17311102"/>
+		<Instance BrandCode="10" CountryCode="TW" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="10" CountryCode="TW" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="10" CountryCode="TW" PaymentType="CREDIT CARD" ConsumerCategory="" ERPGenericConsumerId="C802113"/>
+		<Instance BrandCode="10" CountryCode="JP" PaymentType="CASH_ON_DELIVERY" ConsumerCategory="" ERPGenericConsumerId="C0001062"/>
+		<Instance BrandCode="10" CountryCode="JP" PaymentType="TRANSFERT" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="10" CountryCode="JP" PaymentType="CARD" ConsumerCategory="" ERPGenericConsumerId="C0001061"/>
+		<Instance BrandCode="0M" CountryCode="NL" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0871000"/>
+		<Instance CountryCode="PL" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0867000" BrandCode="0M"/>
+		<Instance BrandCode="0M" CountryCode="IT" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0870000"/>
+		<Instance BrandCode="0M" CountryCode="ES" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0872000"/>
+		<Instance ERPGenericConsumerId="C0868000" BrandCode="0M" CountryCode="DE" PaymentType="CARD" ConsumerCategory="PUBLIC"/>
+		<Instance BrandCode="0M" CountryCode="BE" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0869000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="CARD" ConsumerCategory="INDIVIDUAL_DISCOUNT" ERPGenericConsumerId="C0598000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="CARD" ConsumerCategory="STUDENT_DISCOUNT" ERPGenericConsumerId="C0612000"/>
+		<Instance BrandCode="0M" CountryCode="FR" PaymentType="CARD" ConsumerCategory="PUBLIC" ERPGenericConsumerId="C0599000"/>
+	</PaymentTypeUniqueClient>
+	<ShippingMode>
+		<Instance ShippingModeCanonical="DHL_DE_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="EXCEPTIONAL_DELIVERY" ShippingModeECC="ZU" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_SUNDAY_DELIVERY" ShippingModeECC="ZT" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="WHITE_GLOVE_CA" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="459" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="WHITE_GLOVE_US" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="159" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_PL_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_IT_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="AIR_FREIGHT" ShippingModeECC="Z2" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="ROAD_FREIGHT" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_NO_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_LU_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_CZ_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_IE_DIOR" ShippingModeECC="Z3" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_RO_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_PL_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_DK_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="DHL_SE_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="DPD_HU_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_SK_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_PT_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_GR_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_FI_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_AT_DIOR" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="J_T_SAMEDAY_DELIVERY_DIOR_SG" ShippingModeECC="ZZ" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Expedited" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="414" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Xpresspost" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="418" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Priority" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="417" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="GBScompldev" ShippingModeECC="Z6" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="418" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="418" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="417" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="417" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="414" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="414" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="FedEx Standard Overnight" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="102" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://www.fedex.com/fedextrack/?trknbr="/>
+		<Instance ShippingModeCanonical="FedEx 2DAY" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="103" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://www.fedex.com/fedextrack/?trknbr="/>
+		<Instance ShippingModeCanonical="FEDEX GROUND" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="104" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://www.fedex.com/fedextrack/?trknbr="/>
+		<Instance ShippingModeCanonical="DPD_IT_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="COLISSIMO_EVAP" ShippingModeECC="Z4" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Navette" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="PURO" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="4" TrackingUrlAXUS=""/>
+		<Instance ShippingModeFM="" ShippingModeECC_CA="13" TrackingUrlAXUS="" ShippingModeAXUS="" ShippingModeCanonical="PRIORITY" ShippingModeECC="" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeECC="ZS" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="DPD_SATURDAY_DELIVERY"/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_SECOND_DAY_AIR_HWAK" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="118" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="EXPRESSAIR" ShippingModeECC="ZP" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeFM=""/>
+		<Instance ShippingModeCanonical="EXPRESS" ShippingModeECC="ZD" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="12" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="STANDARD" ShippingModeECC="ZC" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="11" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="SF_HK" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="SF" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance TrackingUrlAXUS="" ShippingModeCanonical="ROAD" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="ROAD" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA=""/>
+		<Instance ShippingModeAXUS="" TrackingUrlAXUS="" ShippingModeECC_CA="" ShippingCarrierCodeFacebookAPI="" ShippingModeCanonical="DPD_ES" ShippingModeECC="ZA" ShippingModeFM=""/>
+		<Instance ShippingModeCanonical="LOCKER_PICKUP" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="SF" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DELIVERY_SERVICE" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="SF" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="Family" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="FAMILY"/>
+		<Instance ShippingModeECC="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="SevenEleven" ShippingModeFM="" ShippingModeAXUS="SevenEleven" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="TCAT" ShippingModeECC_CA="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC="" ShippingModeFM="" TrackingUrlAXUS="" ShippingModeAXUS="TCAT"/>
+		<Instance ShippingModeCanonical="YAM_JP_GSA" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="YAMATO" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="SHOPRUNNER" ShippingModeECC="" ShippingModeAXUS="118-S" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeFM=""/>
+		<Instance ShippingModeCanonical="UPS_HOLD" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="666" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeCanonical="UPS_COLLECT" ShippingModeECC="" ShippingModeFM="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeAXUS="439"/>
+		<Instance ShippingModeFM="" ShippingModeCanonical="UPS_SATURDAY_DELIVERY_PLANNER_REQUEST" ShippingModeECC="" ShippingModeAXUS="431-P" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" ShippingModeAXUS="431" ShippingModeCanonical="UPS_SAT_DELV_NEXT_DAY" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeECC="" ShippingModeFM=""/>
+		<Instance ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="390" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_SECOND_DAY_AIR_SIGNATURE"/>
+		<Instance TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_THIRD_DAY_SELECT_SIGNATURE" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="389" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA=""/>
+		<Instance ShippingModeCanonical="UPS_NEXT_DAY_AIR_SIGNATURE" ShippingModeECC="" ShippingModeFM="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeAXUS="388"/>
+		<Instance ShippingModeCanonical="UPS_GROUND_SIGNATURE" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="380" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeAXUS="307-P" ShippingCarrierCodeFacebookAPI="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_WORLDWIDE_PLANNER_REQUEST" ShippingModeECC="" ShippingModeFM="" ShippingModeECC_CA=""/>
+		<Instance TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" ShippingModeCanonical="UPS_WORLDWIDE" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="307"/>
+		<Instance ShippingModeFM="" ShippingModeAXUS="181-P" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_FIRT_AM_DELIVERY_PLANNER_REQUEST" ShippingModeECC="" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeECC="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeAXUS="181" ShippingModeFM="" ShippingModeCanonical="UPSAM_FIRST_DAYAIR" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA=""/>
+		<Instance TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingCarrierCodeFacebookAPI="" ShippingModeFM="" ShippingModeCanonical="UPS_THIRD_DAY_AIR_PLANNER_REQUEST" ShippingModeECC="" ShippingModeECC_CA="" ShippingModeAXUS="119-P"/>
+		<Instance ShippingModeFM="" ShippingModeCanonical="UPS_THIRD_DAY_SELECT" ShippingModeECC="" ShippingModeAXUS="119" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" ShippingModeCanonical="UPS_SECOND_DAY_AIR_PLANNER_REQUEST" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="118-P"/>
+		<Instance ShippingModeAXUS="118" ShippingModeECC="" ShippingModeFM="" ShippingModeCanonical="UPS_SECOND_DAY_AIR" ShippingCarrierCodeFacebookAPI="UPS" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums=" ShippingModeCanonical="UPS_NEXT_DAY_AIR_PLANNER_REQUEST" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="117-P" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeECC="" ShippingModeCanonical="UPS_NEXT_DAY_AIR" ShippingModeFM="" ShippingModeAXUS="117" ShippingCarrierCodeFacebookAPI="UPS" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeCanonical="UPS_GROUND_RESIDENT" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="114" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeCanonical="UPS_GROUND_PLANNER_REQUEST" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="101-P" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeCanonical="UPS_GROUND" ShippingModeECC="" ShippingModeFM="" ShippingModeAXUS="101" ShippingCarrierCodeFacebookAPI="UPS" ShippingModeECC_CA="" TrackingUrlAXUS="https://wwwapps.ups.com/WebTracking/track?track=yes&amp;trackNums="/>
+		<Instance ShippingModeCanonical="DPD_NL_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeECC="02" ShippingModeCanonical="DPD_SK_GSA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="DPD_PT_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_PL_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_LV_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="DPD_LU_GSA"/>
+		<Instance ShippingModeCanonical="DPD_HU_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_ES_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_CH_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_DE_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_CZ_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="DPD_BE_GSA"/>
+		<Instance ShippingModeCanonical="DPD_AT_GSA" ShippingModeECC="02" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="BRT_IT_GSA" ShippingModeECC="Z3" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_UK" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DHL_EXPRESS_UK" ShippingModeECC="Z8" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="AIR" ShippingModeECC="" ShippingModeFM="AR" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="GROUND" ShippingModeECC="" ShippingModeFM="GD" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="SEA" ShippingModeECC="" ShippingModeFM="SA" ShippingModeAXUS=""/>
+		<Instance ShippingModeCanonical="BARTOLINI" ShippingModeECC="Z4" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_NL" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeECC_CA="" TrackingUrlAXUS="" ShippingModeCanonical="DPD_BE" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI=""/>
+		<Instance ShippingModeCanonical="DPD_DE" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="DPD_CLASSIC" ShippingModeECC="ZA" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Chronopost" ShippingModeECC="Z6" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+		<Instance ShippingModeCanonical="Colissimo" ShippingModeECC="Z4" ShippingModeFM="" ShippingModeAXUS="" ShippingCarrierCodeFacebookAPI="" ShippingModeECC_CA="" TrackingUrlAXUS=""/>
+	</ShippingMode>
+	<EssencePartnerCode>
+		<Instance BrandCode="FT" CountryCodeISO2="GB" PartnerCode="SHOPIFY"/>
+		<Instance BrandCode="50" CountryCodeISO2="JP" PartnerCode="SFCC" AxCallOrigin="GIVEC"/>
+		<Instance CountryCodeISO2="NZ" PartnerCode="SFCC" AxCallOrigin="SFRA" BrandCode="10"/>
+		<Instance BrandCode="10" CountryCodeISO2="AU" PartnerCode="SFCC" AxCallOrigin="SFRA"/>
+		<Instance BrandCode="71" CountryCodeISO2="FR" PartnerCode="SFCC" AxCallOrigin=""/>
+		<Instance CountryCodeISO2="TW" PartnerCode="SFCC" AxCallOrigin="" BrandCode="03"/>
+		<Instance BrandCode="03" CountryCodeISO2="HK" PartnerCode="" AxCallOrigin=""/>
+		<Instance BrandCode="10" CountryCodeISO2="TW" PartnerCode="SFCC" AxCallOrigin=""/>
+		<Instance BrandCode="10" CountryCodeISO2="JP" PartnerCode="" AxCallOrigin=""/>
+		<Instance BrandCode="03" CountryCodeISO2="JP" PartnerCode="" AxCallOrigin=""/>
+	</EssencePartnerCode>
+</ns0:Transco>

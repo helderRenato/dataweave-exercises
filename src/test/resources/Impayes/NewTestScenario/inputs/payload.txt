@@ -40,7 +40,7 @@ Fax (0033)3.88.11.20.24
                       AVIS DE DEBIT  DU 2023-10-19
 *=========================================================================*
 *=========================================================================*
-Dossier                                                       000090054198  N°TPE 2300674     Commerçant  CARREFOUR SANNOI
+Dossier 000090054198  N°TPE 2300674     Commerçant  CARREFOUR SANNOI
 Réf.Cli 323620576049     Carte 5355220900048319000  Lib. : 11
 Numéro d'auto : AQCJSA   Référence d'archivage : 113323869663
 Mont DB      102,84 EUR  Date Achat 2023-08-24      Date Valeur 2023-10-19
